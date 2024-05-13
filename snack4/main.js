@@ -1,9 +1,9 @@
 'use strict'
 
 
-let prima = [0, 2, 21, 12, 3, 2, 12, 32, 1];
+const prima = [0, 2, 21, 12, 3, 2, 12, 32, 1];
 
-let seconda = [12, 3, 12, 12, 22, 123, 211, 23321, 23, 21, 122, 1, 21];
+const seconda = [];
 
 while (prima.length != seconda.length) {
     if (seconda.length < prima.length) {
